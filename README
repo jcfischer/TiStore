@@ -1,18 +1,17 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Welcome to the Ti Store project
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+This sample application demonstrates and includes an "ActiveRecord" look-alike (in a very
+general sense) ORM (Object Relation Mapper) that allows for easier handling of basic CRUD
+operations on JavaScript objects.
 
+The documentation is sparse (i.e. non-existing) at the moment, but I will get around to do more
+as time permits.
 
+The code should be simple enough to follow.
 
-----------------------------------
-Stuff our legal folk make us say:
+Happy coding
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+Jens-Christian Fischer
+http://invisible.ch
+http://twitter.com/jcfischer
 
