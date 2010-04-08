@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>ch.invisible.tidb</id>
+<name>TiDb</name>
+<version>1.0</version>
+<publisher>jcf</publisher>
+<url>http://invisible.ch</url>
+<description>No description provided</description>
+<copyright>2010 by jcf</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <analytics>true</analytics>
+<guid>f38ad6bd-ad22-44c2-9b03-d0792dc83659</guid>
+</ti:app>
